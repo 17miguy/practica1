@@ -17,7 +17,7 @@ public class Practicagiiit {
     public static void main(String[] args) {
         // TODO code application logic here
         System.out.println("cambio 1 práctica");
-        System.out.println("cambio 2 práctica");
+        System.out.println("cambio 2 prácticaaaa");
     }
     
 }
